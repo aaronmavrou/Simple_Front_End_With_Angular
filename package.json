@@ -1,10 +1,8 @@
 {
-  "name": "workspace",
+  "name": "lab4-backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
-    "11": "^0.0.1",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "mongoose": "^5.3.12"
@@ -22,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/aaronmavrou/se3316-amavrou-lab4/issues"
   },
-  "homepage": "https://github.com/aaronmavrou/se3316-amavrou-lab4#readme"
+  "homepage": "https://github.com/aaronmavrou/se3316-amavrou-lab4#readme",
+  "description": ""
 }
