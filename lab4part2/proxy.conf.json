@@ -1,0 +1,8 @@
+{
+    "/products": {
+        "target": "https://se3316-amavrou-lab4-amavrou.c9users.io:8081",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "info"
+    }
+}
