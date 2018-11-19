@@ -20,9 +20,9 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: false}));
 app.use('/products', product);
 
-app.use(express.static('lab4part2'));
+app.use(express.static('../lab4part2/src/app'));
 
-let port = 8080;
+let port = 8081;
 app.listen(port, () => {
     console.log('Server is up and running on port numner ' + port);
 });
